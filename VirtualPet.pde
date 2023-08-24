@@ -1,8 +1,46 @@
 
 void setup(){
-  //some of your code here
+   size(1000,1000);
 }
 void draw(){
-  //more of your code here
+    fill(0,0,0);
+  ellipse(500,500,780,680);
+  ellipse(560,150,140,140);
+  ellipse(250,220,145,145);
+  noStroke();
+  fill(109,226,73);
+  ellipse(500,500,750,650);
+  ellipse(560,150,115,115);
+  ellipse(250,220,115,115);
+  fill(0,0,0);
+  ellipse(255,225,55,55);
+  ellipse(560,155,55,55);
+  fill(115,167,0);
+  rect(475,582,45,100);
+  ellipse(475,631,150,100);
+  ellipse(515,631,150,100);
+  fill(200,252,13);
+  ellipse(425,545,160,160);
+  ellipse(575,545,160,160);
+  ellipse(500,500,250,150);
+  ellipse(410,515,100,100);
+  ellipse(590,515,100,100);
+  rect(425,525,150,100);
+  fill(21,57,15);
+  ellipse(440,530,60,70);
+  ellipse(560,540,60,60);
+  ellipse(560,532,50,55);
+  ellipse(255,225,40,40);
+  ellipse(560,155,40,40);
+  fill(54,136,32);
+  ellipse(740,530,125,125);
+  ellipse(240,530,125,125);
+   fill(255,255,255);
+  ellipse(750,520,125,125);
+  ellipse(250,520,125,125);
+  fill(0,0,0);
+  ellipse(775,520,40,40);
+  ellipse(230,520,40,40);
+  fill(225,225,225);
 }
 
